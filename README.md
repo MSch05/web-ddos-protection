@@ -1,5 +1,3 @@
-# web-ddos-protection
-
 # Web DDoS Protection
 
 Lightweight defensive DDoS / abuse protection for Linux web servers.
@@ -38,6 +36,6 @@ This project provides:
 ```bash
 sudo apt update
 sudo apt install ipset -y
-git clone https://github.com/YOURNAME/web-ddos-protection.git
+git clone https://github.com/MSch05/web-ddos-protection
 cd web-ddos-protection
 sudo python3 main.py
